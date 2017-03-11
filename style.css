@@ -1,0 +1,66 @@
+.navbar-default {
+    background:#999999;
+    margin-bottom: 1px;
+    
+}
+.navbar-default a {
+    color: #000;
+    margin-top: 7px;
+}
+
+.navbar-brand{
+    margin-top: 3px;
+    background: url("img/lamboS1.jpg")center/contain no-repeat;width: 50px;
+
+}
+.content{
+    background: url("img/lambos3.jpg")left center no-repeat;
+    height: 544px;
+}
+.footer {
+    background: #ffffff;
+    position: fixed;
+    bottom: 0;
+    width: 101.5%;
+    height: 85px;
+    padding: 10px;
+    color: #0f0f0f;
+
+}
+.form-group{
+    margin: 40px;
+    padding-left: 280px;
+    padding-right: 280px;
+
+
+
+}
+
+.form-control {
+    width: 300px;
+    height: 25px;
+    margin-bottom: 1px;
+    border-radius: 10px;
+
+}
+.navbar-search,input{
+    margin: 7px;
+    border-radius: 7px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
